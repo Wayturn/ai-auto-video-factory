@@ -25,7 +25,7 @@
 
 ## 系統架構
 
-![系統架構](docs/architecture.svg)
+![系統架構](docs/architecture.png)
 
 系統採用 **模組化且可替換的架構** 設計。
 每個組件都可以獨立升級或更換，而不影響整體管線。
@@ -174,7 +174,7 @@ to handle **batch jobs** efficiently and reliably.
 
 ## System Architecture
 
-![System Architecture](docs/architecture.svg)
+![System Architecture](docs/architecture.png)
 
 The system is designed with a **modular and replaceable architecture**.
 Each component can be independently upgraded or swapped without
